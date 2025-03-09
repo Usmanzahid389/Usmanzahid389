@@ -3,7 +3,7 @@
   
   <h1>🚀 Usman | Senior Fullstack Engineer</h1>
   <p><strong>6+ years of experience</strong> in Full Stack Development</p>
-  <p>Specializing in <strong>React.js, Node.js, Laravel, TypeScript & DevOps</strong></p>
+  <p>Specializing in <strong>React.js, Node.js, Python, Laravel, TypeScript & DevOps</strong></p>
   <p>📈 Focused on building scalable, secure, and high-performance applications</p>
   <p>🎯 Passionate about clean code, cloud computing, and AI-driven solutions</p>
 </div>
