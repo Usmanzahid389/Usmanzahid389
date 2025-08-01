@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQE1MndLbUCWvQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724139557858?e=1747267200&v=beta&t=vWDAWFyZFIRIKUqPWPpa_eXwWEB5uHs0wtqibj910Ng" alt="Profile Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQE1MndLbUCWvQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724139557858?e=1756944000&v=beta&t=-RsY0hLyfUp971aaeDCbbxKuLigbd0VkqDarCbisKzQ" alt="Profile Banner" width="100%" />
   
   <h1>🚀 Usman | Senior Fullstack Engineer</h1>
   <p><strong>6+ years of experience</strong> in Full Stack Development</p>
