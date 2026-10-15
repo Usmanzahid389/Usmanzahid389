@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Usman</h1>
+  <h1>Usman Zahid </h1>
   <h3>Senior Full-Stack Engineer</h3>
   <p>
     6+ years building commerce platforms and APIs<br/>
