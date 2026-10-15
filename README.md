@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Usman Zahid </h1>
+  <h1>Usman Zahid</h1>
   <h3>Senior Full-Stack Engineer</h3>
   <p>
     6+ years building commerce platforms and APIs<br/>
@@ -55,12 +55,3 @@
 - Built AWS + Docker pipelines to simplify releases across apps
 - Improved performance with caching and query optimization
 - Delivered NestJS and React services for multi-team product work
-
-<br/>
-
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Usmanzahid389&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usmanzahid389&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</p>
